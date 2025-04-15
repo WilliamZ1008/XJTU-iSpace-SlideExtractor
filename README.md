@@ -15,6 +15,7 @@
 ```shell
 pip install -r ./requirements.txt
 ```
+
 ### 放置课程编号和Cookie
 
 ![image-20250415095058853](./assets/image-20250415095058853.png)
@@ -46,3 +47,7 @@ python SlideExtractor.py
 运行完成后，提取的课程ppt会自动输出到output文件夹下🌈
 
 ![image-20250415100310002](./assets/image-20250415100310002.png)
+
+
+### 提取效果
+![image-20250415102831115](./assets/image-20250415102831115.png)
