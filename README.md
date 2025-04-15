@@ -1,4 +1,4 @@
-### XJTU-iSpace-SlideExtractor
+# XJTU-iSpace-SlideExtractor
 老师不给ppt吗？自己在思源学习空间里提取！
 
 ## 项目简介
