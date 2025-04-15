@@ -57,5 +57,4 @@ if __name__ == '__main__':
         video2slide(str(lesson_current))
         print("Done.")
 
-        # video2slide(str(lesson_current))
         lesson_current = lesson_current + 1
